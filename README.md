@@ -1,5 +1,5 @@
 <h1 align="center">📦 CreTail</h1>
-<h3 align="center">Adds Typescript, TailwindCSS and ESLint into your newly created project</h3>
+<h3 align="center">Add Typescript, TailwindCSS and ESLint into your newly created project</h3>
 
 <br/>
 
