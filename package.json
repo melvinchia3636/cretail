@@ -28,7 +28,7 @@
   "scripts": {
     "start": "ts-node src/index.ts",
     "build": "tsc && shx rm -rf dist/templates && shx cp -r src/templates dist",
-    "test": "echo \"no test specified\" && exit 1"
+    "test": "echo \"no test specified\""
   },
   "author": "Melvin Chia",
   "license": "MIT",
