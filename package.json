@@ -1,6 +1,6 @@
 {
   "name": "cretail",
-  "version": "1.0.6",
+  "version": "1.0.5",
   "description": "A frontend build tool that adds Typescript, TailwindCSS and ESLint into your newly created project",
   "homepage": "https://github.com/melvinchia3636/cretail#readme",
   "repository": {
